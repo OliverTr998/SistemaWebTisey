@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d59052b-8881-40c3-9220-e98f77b56f7b" name="Changes" comment="Primer commit">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/SistemaTisey.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Categoria/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Categoria/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Categoria/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Categoria/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Categoria/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Categoria/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Categoria/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Categoria/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Cliente/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Cliente/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Cliente/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Cliente/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Cliente/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Cliente/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Cliente/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Cliente/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Empleado/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Empleado/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Empleado/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Empleado/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Empleado/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Empleado/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Empleado/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Persona/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Persona/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Persona/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Persona/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Persona/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Persona/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Persona/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Persona/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Sexo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Sexo/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Sexo/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Sexo/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Sexo/migrations/0002_alter_sexo_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Sexo/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Sexo/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Sexo/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Catalogos/Sexo/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/Compra/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/Compra/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/Compra/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/Compra/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/Compra/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/Compra/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/Compra/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/DetalleCompra/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/DetalleCompra/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/DetalleCompra/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/DetalleCompra/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/DetalleCompra/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/DetalleCompra/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/DetalleCompra/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/DetalleFactura/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/DetalleFactura/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/DetalleFactura/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/DetalleFactura/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/DetalleFactura/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/DetalleFactura/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/DetalleFactura/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/Factura/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/Factura/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/Factura/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/Factura/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/Factura/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/Factura/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Apps/Movimientos/Factura/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seguridad/Usuario/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seguridad/Usuario/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seguridad/Usuario/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seguridad/Usuario/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seguridad/Usuario/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seguridad/Usuario/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seguridad/Usuario/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seguridad/Usuario/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/OliverTr998/SistemaWebTisey.git",
+    "accountId": "15cf463e-003a-46d8-a865-17583721d1bc"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2lwHttmjrfxlop9YjS9E9RwqYCW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/oliver.obando/Documents/Componentes II-2024/Progrmacion WEB 1/SEMANAS/SistemaTisey"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d59052b-8881-40c3-9220-e98f77b56f7b" name="Changes" comment="" />
+      <created>1726084437061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726084437061</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Primer commit">
+      <option name="closed" value="true" />
+      <created>1726097604394</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726097604394</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primer commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primer commit" />
+  </component>
+</project>
